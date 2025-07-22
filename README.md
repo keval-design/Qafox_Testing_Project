@@ -176,19 +176,18 @@ The objective of this project is to ensure the functionality, performance, and u
 ---
 
 ## 📁 Repository Structure
+
+## 📎 Repository Structure
+
+```bash
 Qafox_Testing_Project/
-│
 ├── assets/
-│ ├── techstack.png
-│ └── login-page.png
-│
+│   ├── techstack.png
+│   └── login-page.png
+├── README.md
 ├── test-plan.docx
 ├── test-cases.xlsx
 ├── bug-report.xlsx
-├── mindmap.jpg
-├── test-summary.docx
-└── README.md
-
 
 
 ---
