@@ -1,118 +1,86 @@
-# 🧪 Qafox_Testing_Project
+# 🧪 Qafox Testing Project
 
-A full-stack automation testing project designed to validate core functionalities of the Qafox Web Application using Java, Selenium, TestNG, and Maven.
+## 📌 Project Overview
 
----
-
-## 🔐 Login Page
-![Login Page](./assets/login-page.png)
+This is a **manual and automation testing project** for the e-commerce website [Qafox](https://tutorialsninja.com/demo/).  
+The objective of this project is to ensure the functionality, performance, and usability of the website through structured testing techniques.
 
 ---
 
-## 🧾 Introduction
+## 🧰 Tech Stack Used
 
-This project automates various functionalities of the Qafox app, including login, registration, search, and cart interactions. It combines **manual and automation testing** techniques to ensure:
+### 👨‍💻 Manual Testing Tools
+- Test Case Design using Excel
+- Bug Report & Defect Tracking
+- Test Planning & Test Summary
 
-- ✅ Functionality
-- ⚡ Performance
-- 💡 Usability
-- 🌐 Cross-browser Compatibility
+### 🤖 Automation Testing Tools
+- Java
+- Selenium WebDriver
+- TestNG
+- Maven
+- Extent Reports
 
----
-
-## 🎯 Objective
-
-- Cover all key test scenarios (positive & negative)
-- Validate data-driven testing using TestNG
-- Detect and report bugs & defects clearly
-- Create detailed reports like test summary, bug reports, and mind maps
-
----
-
-## 📁 Features Tested
-
-- ✅ User Login / Signup
-- ✅ Product Search
-- ✅ Add to Cart Functionality
-- ✅ Contact Form Submission
-- ✅ Bug Reporting
-- ✅ Data-Driven Testing
+### 📷 Tech Stack Diagram  
+![Tech Stack](assets/techstack.png)
 
 ---
 
-## 🧩 Folder Structure
+## 📂 Documentation
+
+| Document Type        | Link                                                                                 |
+|----------------------|--------------------------------------------------------------------------------------|
+| ✅ Test Plan          | [View Test Plan](https://docs.google.com/document/d/1vLvr1-H1HbwUpXSAsNlIjWRqs2QvQPNX-u78SpoSV-Y/edit?usp=sharing) |
+| 🧾 Test Scenarios & Cases | [View Test Cases](https://docs.google.com/spreadsheets/d/1lRS2xEfpKTtCZq4nhP3CNifZDfl3qESiU69f3BVo0Tk/edit?usp=sharing) |
+| 🧠 Mind Map          | [View Mind Map](https://drive.google.com/file/d/1_aCkaE_O3AC1bwlZw7Wj4TTg1-0g9Bwu/view?usp=sharing) |
+| 📄 Test Summary Report | [View Summary](https://docs.google.com/document/d/1b00sAJbbADKFWuszQmpTv6YgzNlXORGNns3fZAN31pE/edit?usp=sharing) |
+| 🐞 Bug Report        | [View Bug Report](https://drive.google.com/file/d/1_aCkaE_O3AC1bwlZw7Wj4TTg1-0g9Bwu/view?usp=sharing) |
+
+---
+
+## 🧪 Testing Summary
+
+| Metric              | Details                    |
+|---------------------|----------------------------|
+| Total Test Cases    | 30                         |
+| Executed Cases      | 30                         |
+| Passed              | 28                         |
+| Failed              | 2                          |
+| Defects Found       | 6                          |
+| Testing Type        | Manual & Automation        |
+
+---
+
+## 📷 Screenshot Sample
+
+### 🔐 Login Page  
+![Login Page](assets/login-page.png)
+
+---
+
+## 📎 Repository Structure
 
 Qafox_Testing_Project/
 │
-├── pages/
-│ ├── AddToCartPage.java
-│ ├── ContactPage.java
-│ ├── LoginPage.java
-│ ├── RegisterPage.java
-│ └── SearchPage.java
+├── assets/
+│ ├── techstack.png
+│ └── login-page.png
 │
-├── tests/
-│ └── test cases and reports
-│
-├── Bug_report.xlsx
-├── Mindmap_Qafox.png
-├── QaFox_Perfomance_Testing.png
-├── Test_Plan.docx
-├── TestCase&TestScenario_report.xlsx
-├── Test_summary_report.docx
-├── pom.xml
-└── README.md
+├── README.md
+├── test-plan.docx
+├── test-cases.xlsx
+└── bug-report.xlsx
 
-yaml
-Copy
-Edit
+
 
 ---
 
-## 📄 Documentation
-
-| 📌 Report Type            | 🔗 Link / File Name                     |
-|--------------------------|----------------------------------------|
-| 📝 Test Plan              | `Test_Plan.docx`                       |
-| 📊 Test Summary Report    | `Test_summary_report.docx`             |
-| ✅ Test Cases & Scenarios | `TestCase&TestScenario_report.xlsx`    |
-| 🐞 Bug Report             | `Bug_report.xlsx`                      |
-| 🧠 Mind Map               | `Mindmap_Qafox.png`                    |
-| ⚙️ Performance Report     | `QaFox_Perfomance_Testing.png`         |
-
----
-
-## 🧪 Tech Stack
-
-| Category          | Tools                          |
-|------------------|--------------------------------|
-| Language          | Java                           |
-| Automation        | Selenium WebDriver             |
-| Framework         | TestNG                         |
-| Build Tool        | Maven                          |
-| Version Control   | Git, GitHub                    |
-| Reporting         | Excel, Word Docs               |
-| Test Execution    | TestNG XML, CLI                |
-
-### 🔧 Tech Stack Architecture Image
-
-![Tech Stack](./assets/techstack.png)
-
----
-
-## 📌 Application Under Test
-
-🔗 [Qafox Application](https://tutorialsninja.com/demo/index.php?route=common/home)
-
----
-
-## 🎥 Video Demonstration
-
-▶️ [Click here to watch the project demo](#)
-
----
-
-## 🙋‍♂️ Author
+## 📣 Author
 
 **Keval Rathod**  
-📧 kevalrathod@email.com  
+📧 Email: rathodkeval70901@gmail.com
+
+
+---
+
+> _This project was part of my QA practice to simulate a real-time testing cycle using professional documentation and testing standards._
