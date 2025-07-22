@@ -8,8 +8,6 @@ The objective of this project is to ensure the functionality, performance, and u
 
 ## 🧰 Tech Stack Used
 
-<img src="./assets/techstack.png" alt="Tech Stack Diagram" width="450" align="right" />
-
 ### 👨‍💻 Manual Testing Tools
 - Test Case Design using Excel  
 - Bug Report & Defect Tracking  
@@ -22,7 +20,14 @@ The objective of this project is to ensure the functionality, performance, and u
 - Maven  
 - Extent Reports  
 
----
+### 🛠 Tech Stack 
+
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
+![Selenium](https://img.icons8.com/ios/50/000000/selenium.png) 
+![TestNG](https://img.icons8.com/ios/50/000000/test-tube.png) 
+![Maven](https://img.icons8.com/ios/50/000000/maven.png)
+![Extent Reports](https://img.icons8.com/ios/50/000000/extent-reports.png)
+
 
 ## 📂 Documentation
 
@@ -56,33 +61,12 @@ The objective of this project is to ensure the functionality, performance, and u
 
 ---
 
-## 📁 Repository Structure
-
-# 🧪 Qafox Testing Project
-
 ## 📌 Project Overview  
 This is a manual and automation testing project for the e-commerce website **Qafox**.  
 The objective of this project is to ensure the functionality, performance, and usability of the website through structured testing techniques.
 
 ---
 
-## 🧰 Tech Stack Used
-
-<img src="./assets/techstack.png" alt="Tech Stack Diagram" width="450" align="right" />
-
-### 👨‍💻 Manual Testing Tools
-- Test Case Design using Excel  
-- Bug Report & Defect Tracking  
-- Test Planning & Test Summary  
-
-### 🤖 Automation Testing Tools
-- Java  
-- Selenium WebDriver  
-- TestNG  
-- Maven  
-- Extent Reports  
-
----
 
 ## 📂 Documentation
 
@@ -125,23 +109,6 @@ The objective of this project is to ensure the functionality, performance, and u
 
 ---
 
-## 🧰 Tech Stack Used
-
-<img src="./assets/techstack.png" alt="Tech Stack Diagram" width="450" align="right" />
-
-### 👨‍💻 Manual Testing Tools
-- Test Case Design using Excel  
-- Bug Report & Defect Tracking  
-- Test Planning & Test Summary  
-
-### 🤖 Automation Testing Tools
-- Java  
-- Selenium WebDriver  
-- TestNG  
-- Maven  
-- Extent Reports  
-
----
 
 ## 📂 Documentation
 
