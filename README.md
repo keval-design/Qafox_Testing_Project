@@ -57,7 +57,7 @@ The objective of this project is to ensure the functionality, performance, and u
 ## 📷 Screenshot Sample
 
 ### 🔐 Login Page  
-<img src="./assets/login-page.png" alt="Login Page Screenshot" width="400" />
+<img src=""C:\Users\keval\OneDrive\Pictures\Screenshots\login.png"" alt="Login Page Screenshot" width="400" />
 
 ---
 
