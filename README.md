@@ -28,38 +28,8 @@ The objective of this project is to ensure the functionality, performance, and u
 ![Maven](https://img.icons8.com/ios/50/000000/maven.png)
 ![Extent Reports](https://img.icons8.com/ios/50/000000/extent-reports.png)
 
-
-## 📂 Documentation
-
-| Document Type          | Link            |
-|------------------------|-----------------|
-| ✅ Test Plan           | [View Test Plan](./test-plan.docx) |
-| 🧾 Test Scenarios & Cases | [View Test Cases](./test-cases.xlsx) |
-| 🧠 Mind Map           | [View Mind Map](./mindmap.jpg) |
-| 📄 Test Summary Report | [View Summary](./test-summary.docx) |
-| 🐞 Bug Report          | [View Bug Report](./bug-report.xlsx) |
-
 ---
 
-## 🧪 Testing Summary
-
-| Metric              | Details                  |
-|---------------------|---------------------------|
-| Total Test Cases    | 30                        |
-| Executed Cases      | 30                        |
-| Passed              | 28                        |
-| Failed              | 2                         |
-| Defects Found       | 6                         |
-| Testing Type        | Manual & Automation       |
-
----
-
-## 📷 Screenshot Sample
-
-### 🔐 Login Page  
-<img src="C:\Users\keval\OneDrive\Pictures\Screenshots\login.png" alt="Login Page Screenshot" width="400" />
-
----
 
 ## 📌 Project Overview  
 This is a manual and automation testing project for the e-commerce website **Qafox**.  
@@ -106,32 +76,6 @@ The objective of this project is to ensure the functionality, performance, and u
 ## 📌 Project Overview  
 This is a manual and automation testing project for the e-commerce website **Qafox**.  
 The objective of this project is to ensure the functionality, performance, and usability of the website through structured testing techniques.
-
----
-
-
-## 📂 Documentation
-
-| Document Type          | Link            |
-|------------------------|-----------------|
-| ✅ Test Plan           | [View Test Plan](./test-plan.docx) |
-| 🧾 Test Scenarios & Cases | [View Test Cases](./test-cases.xlsx) |
-| 🧠 Mind Map           | [View Mind Map](./mindmap.jpg) |
-| 📄 Test Summary Report | [View Summary](./test-summary.docx) |
-| 🐞 Bug Report          | [View Bug Report](./bug-report.xlsx) |
-
----
-
-## 🧪 Testing Summary
-
-| Metric              | Details                  |
-|---------------------|---------------------------|
-| Total Test Cases    | 30                        |
-| Executed Cases      | 30                        |
-| Passed              | 28                        |
-| Failed              | 2                         |
-| Defects Found       | 6                         |
-| Testing Type        | Manual & Automation       |
 
 ---
 
