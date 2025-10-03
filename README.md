@@ -24,13 +24,14 @@ The objective of this project is to ensure the functionality, performance, and u
 
 ## 🛠 Tech Stack  
 ## 🛠 Tech Stack  
+ 
 
 <p align="left">
   <!-- Java -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   
   <!-- Selenium -->
-  <img src="https://raw.githubusercontent.com/SeleniumHQ/selenium/main/common/images/selenium_logo_square_green.png" alt="Selenium" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="Selenium" width="50" height="50"/>
   
   <!-- TestNG -->
   <img src="https://avatars.githubusercontent.com/u/5042671?s=200&v=4" alt="TestNG" width="50" height="50"/>
@@ -41,6 +42,7 @@ The objective of this project is to ensure the functionality, performance, and u
   <!-- Extent Reports -->
   <img src="https://avatars.githubusercontent.com/u/32260806?s=200&v=4" alt="Extent Reports" width="50" height="50"/>
 </p>
+
 
 
 ---
