@@ -22,11 +22,16 @@ The objective of this project is to ensure the functionality, performance, and u
 
 ### 🛠 Tech Stack 
 
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
-![Selenium](https://img.icons8.com/ios/50/000000/selenium.png) 
-![TestNG](https://img.icons8.com/ios/50/000000/test-tube.png) 
-![Maven](https://img.icons8.com/ios/50/000000/maven.png)
-![Extent Reports](https://img.icons8.com/ios/50/000000/extent-reports.png)
+## 🛠 Tech Stack  
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" width="50" height="50"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-selenium-an-open-source-testing-framework-for-web-applications-logo-color-tal-revivo.png" alt="Selenium" width="50" height="50"/>
+  <img src="https://img.icons8.com/ios-filled/50/experimental-test-tube-ios-filled.png" alt="TestNG" width="50" height="50"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-maven-apache-build-automation-tool-logo-color-tal-revivo.png" alt="Maven" width="50" height="50"/>
+  <img src="https://avatars.githubusercontent.com/u/32260806?s=200&v=4" alt="Extent Reports" width="50" height="50"/>
+</p>
+
 
 ---
 
@@ -63,11 +68,6 @@ The objective of this project is to ensure the functionality, performance, and u
 
 ---
 
-## 📷 Screenshot Sample
-
-### 🔐 Login Page  
-<img src="C:\Users\keval\OneDrive\Pictures\Screenshots\login.png" alt="Login Page Screenshot" width="400" />
-
 ---
 
 ## 📁 Repository Structure
@@ -78,11 +78,6 @@ This is a manual and automation testing project for the e-commerce website **Qaf
 The objective of this project is to ensure the functionality, performance, and usability of the website through structured testing techniques.
 
 ---
-
-## 📷 Screenshot Sample
-
-### 🔐 Login Page  
-<img src="./assets/login-page.png" alt="Login Page Screenshot" width="400" />
 
 ---
 
