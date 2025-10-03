@@ -23,12 +23,22 @@ The objective of this project is to ensure the functionality, performance, and u
 ### 🛠 Tech Stack 
 
 ## 🛠 Tech Stack  
+## 🛠 Tech Stack  
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" width="50" height="50"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-selenium-an-open-source-testing-framework-for-web-applications-logo-color-tal-revivo.png" alt="Selenium" width="50" height="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/experimental-test-tube-ios-filled.png" alt="TestNG" width="50" height="50"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-maven-apache-build-automation-tool-logo-color-tal-revivo.png" alt="Maven" width="50" height="50"/>
+  <!-- Java -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  
+  <!-- Selenium -->
+  <img src="https://raw.githubusercontent.com/SeleniumHQ/selenium/main/common/images/selenium_logo_square_green.png" alt="Selenium" width="50" height="50"/>
+  
+  <!-- TestNG -->
+  <img src="https://avatars.githubusercontent.com/u/5042671?s=200&v=4" alt="TestNG" width="50" height="50"/>
+  
+  <!-- Maven -->
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" alt="Maven" width="50" height="50"/>
+  
+  <!-- Extent Reports -->
   <img src="https://avatars.githubusercontent.com/u/32260806?s=200&v=4" alt="Extent Reports" width="50" height="50"/>
 </p>
 
