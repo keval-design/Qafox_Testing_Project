@@ -8,6 +8,7 @@ The objective of this project is to ensure the functionality, performance, and u
 
 ## 🧰 Tech Stack Used
 
+
 ### 👨‍💻 Manual Testing Tools
 - Test Case Design using Excel  
 - Bug Report & Defect Tracking  
@@ -21,6 +22,7 @@ The objective of this project is to ensure the functionality, performance, and u
 - Extent Reports  
 
 ### 🛠 Tech Stack 
+
 
 
 
