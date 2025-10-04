@@ -22,9 +22,7 @@ The objective of this project is to ensure the functionality, performance, and u
 
 ### 🛠 Tech Stack 
 
-## 🛠 Tech Stack  
-## 🛠 Tech Stack  
- 
+
 
 <p align="left">
   <!-- Java -->
